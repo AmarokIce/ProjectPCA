@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "the_project_for_the_prevention_of_cruelty_to_animals:item/split"
+    }
+}
