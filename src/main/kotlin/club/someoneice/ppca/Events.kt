@@ -6,7 +6,7 @@ import net.minecraft.world.entity.animal.Animal
 import net.neoforged.bus.api.SubscribeEvent
 import net.neoforged.fml.common.Mod.EventBusSubscriber
 import net.neoforged.neoforge.event.entity.living.LivingHurtEvent
-import java.util.Random
+import java.util.*
 
 @EventBusSubscriber(modid = PPCAMain.MODID)
 class Events {
